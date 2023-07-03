@@ -1,6 +1,5 @@
 # **MIPS FILE READER**
 
-## Descrizione
 Progetto realizzato con  l'obiettivo di generare le matrici A e Aeq ed i vettori b, beq, c, lb ed ub del seguente problema MILP:
 
 min c^T x
