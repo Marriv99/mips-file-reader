@@ -1,3 +1,5 @@
+# **MIPS FILE READER**
+
 ## Descrizione
 Progetto realizzato con  l'obiettivo di generare le matrici A e Aeq ed i vettori b, beq, c, lb ed ub del seguente problema MILP:
 
@@ -71,6 +73,8 @@ Per ogni colonna, se il coefficiente `my_c[j]` è diverso da 0.0, si aggiunge la
 Questo script in Python risolve un problema di ottimizzazione lineare CPLEX e restituisce una serie di informazioni sull'output della soluzione.
 
 In particolare, questa funzione estrae diverse informazioni dal problema di ottimizzazione, come i limiti delle variabili, i vincoli, la funzione obiettivo e le informazioni sul tipo di variabile.
+
+Autore: @marriv99
 
 Risolve il problema usando il metodo `solve()` fornito da CPLEX.
 
