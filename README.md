@@ -74,8 +74,6 @@ Questo script in Python risolve un problema di ottimizzazione lineare CPLEX e re
 
 In particolare, questa funzione estrae diverse informazioni dal problema di ottimizzazione, come i limiti delle variabili, i vincoli, la funzione obiettivo e le informazioni sul tipo di variabile.
 
-Autore: @marriv99
-
 Risolve il problema usando il metodo `solve()` fornito da CPLEX.
 
 Infine, la funzione stampa le informazioni sulla soluzione, inclusi lo stato della soluzione, il valore della funzione obiettivo e i valori delle variabili ottimali.
