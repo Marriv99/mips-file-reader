@@ -2,10 +2,12 @@
 
 Progetto realizzato con  l'obiettivo di generare le matrici A e Aeq ed i vettori b, beq, c, lb ed ub del seguente problema MILP:
 
+```
 min c^T x
 Ax <= b
 Aeqx = beq
 lb <= x <= ub
+```
 
 Popola il problema in tre differenti modi:
 1. Per colonna
